@@ -21,8 +21,8 @@ Built a calculator in C++ that evolves from basic arithmetic to advanced feature
 ---
 
 ## 📂 Repository Structure
-Challenge 1: GitHub Repository Creation
-Challenge 2: Command-Line Calculator
+- [Challenge 1: GitHub Repository Creation](https://github.com/codingUnited/challenge-JoshuaTorres/tree/main/Challenge%201)  
+- [Challenge 2: Command-Line Calculator](https://github.com/codingUnited/challenge-JoshuaTorres/tree/main/Challenge%202)
 
 ---
 
