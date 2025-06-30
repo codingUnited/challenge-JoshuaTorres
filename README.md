@@ -12,7 +12,7 @@ Mastered Git workflows and basic web development practices by:
 - Creating a simple web page with custom styling.
 - Using feature branches and pull requests to collaborate effectively.
 
-### 🧮 Challenge 2: Command-Line Calculator
+### ♾️ Challenge 2: Command-Line Calculator
 Built a calculator in C++ that evolves from basic arithmetic to advanced features:
 - **Easy Level:** Perform basic operations (+, -, *, /).
 - **Medium Level:** Handle errors, chained operations, and reset functionality.
@@ -26,9 +26,9 @@ Built a calculator in C++ that evolves from basic arithmetic to advanced feature
 
 ---
 
-## 🚧 What’s Next?
+## What’s Next?
 Stay tuned for future challenges! Each one adds new layers of complexity and fun, and this repo will grow with every new skill I learn.
 
-🙌 Feel free to explore, fork, or suggest improvements!
+Feel free to explore, fork, or suggest improvements!
 
 ---
